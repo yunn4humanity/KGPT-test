@@ -9,7 +9,7 @@ import os
 db = MyDatabase('wikidata.db', connect_each=False)
 stopwords = set(stopwords.words('english'))
 examples = []
-with open('examples-v3-intermediate.json', 'r') as f:
+with open('out-more.json.intermediate.json', 'r') as f:
     for i, line in enumerate(f):
         entry = json.loads(line.strip())
         examples.append(entry)

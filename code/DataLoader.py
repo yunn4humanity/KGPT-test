@@ -100,7 +100,7 @@ class WikiDataDataset(KBDataset):
         for _ in entry['kblinks']:
             if _ is not None and _ in self.knowledge and _ not in entities:
                 entities.append(_)
-        if 'title' in entry and entry['title_kb_id'] in self.knowledge:
+        if 'title' in entry:
             entities.insert(0, "TITLE:::" + entry['title_kb_id'])
         return entities
 

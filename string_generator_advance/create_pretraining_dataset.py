@@ -5,20 +5,12 @@ def create_dataset(num_samples, variations_per_sample=5):
     latest_all_data = []
     knowledge_full_data = {}
 
-    # knowledge-full.json 파일 로드
-    with open('knowledge-full.json', 'r') as f:
-        knowledge = json.load(f)
-
     for i in range(num_samples):
         full_sfiles = generate_sfiles_string()
         partial_sfiles_list = generate_multiple_partial_sfiles(full_sfiles, variations_per_sample)
 
         for j, partial_sfiles in enumerate(partial_sfiles_list):
             id = f"Q{i+1}-{j+1}"
-
-            # knowledge-full.json에 있는 엔티티만 사용
-            if id not in knowledge:
-                continue
 
             # latest-all.json 형식의 데이터 생성
             latest_all_entry = {

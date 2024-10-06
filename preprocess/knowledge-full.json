@@ -1,147 +1,57 @@
 {
   "Q1-1": [
-    "(raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)(abs-15)(gfil-11)",
-    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)(abs-15)(gfil-11)",
+    "(raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)",
+    "SFILES 2.0 string with partial representation: (raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)",
     [
       [
         "pred",
-        "(hex-16)(prod-1)"
+        "(hex-5)(prod-1)(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q1-2": [
-    "(raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)(abs-15)(gfil-11)(hex-16)",
-    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)(abs-15)(gfil-11)(hex-16)",
+    "(raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)(hex-5)(prod-1)(prod-2)",
+    "SFILES 2.0 string with partial representation: (raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)(hex-5)(prod-1)(prod-2)",
     [
       [
         "pred",
-        "(prod-1)"
+        "(prod-3)"
       ]
     ]
   ],
   "Q1-3": [
-    "(raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)",
-    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)",
+    "(raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)(hex-5)",
+    "SFILES 2.0 string with partial representation: (raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)(hex-5)",
     [
       [
         "pred",
-        "(abs-15)(gfil-11)(hex-16)(prod-1)"
+        "(prod-1)(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q1-4": [
-    "(raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)",
-    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)",
+    "(raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)(hex-5)(prod-1)",
+    "SFILES 2.0 string with partial representation: (raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)(hex-5)(prod-1)",
     [
       [
         "pred",
-        "(abs-15)(gfil-11)(hex-16)(prod-1)"
+        "(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q1-5": [
-    "(raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)(abs-15)(gfil-11)(hex-16)",
-    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(gfil-1)(cond-2)(gfil-1)(cond-2)(hex-3)(cond-2)(gfil-4)(hex-3)(hex-3)(mix-5)(gfil-4)(splt-6)(gfil-4)(splt-7)(mix-5)(splt-6)(abs-8)(splt-6)(comp-9)(splt-7)(expand-10)(splt-7)(gfil-11)(abs-8)(expand-12)(abs-8)(lfil-13)(comp-9)(r-14)(expand-10)(gfil-11)(abs-15)(gfil-11)(hex-16)",
+    "(raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)",
+    "SFILES 2.0 string with partial representation: (raw-1)(splt-1)(raw-2)(cycl-2)(raw-3)(raw-4)(mix-3)(splt-1)(splt-1)(extr-4)(cycl-2)",
     [
       [
         "pred",
-        "(prod-1)"
+        "(hex-5)(prod-1)(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q2-1": [
-    "(raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)",
-    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)",
-    [
-      [
-        "pred",
-        "(prod-1)(prod-2)(prod-3)(prod-4)"
-      ]
-    ]
-  ],
-  "Q2-2": [
-    "(raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)(prod-3)",
-    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)(prod-3)",
-    [
-      [
-        "pred",
-        "(prod-4)"
-      ]
-    ]
-  ],
-  "Q2-3": [
-    "(raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)",
-    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)",
-    [
-      [
-        "pred",
-        "(prod-3)(prod-4)"
-      ]
-    ]
-  ],
-  "Q2-4": [
-    "(raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)(prod-3)",
-    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)(prod-3)",
-    [
-      [
-        "pred",
-        "(prod-4)"
-      ]
-    ]
-  ],
-  "Q2-5": [
-    "(raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)(prod-3)",
-    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(extr-1)(raw-3)(gfil-2)(raw-4)(cond-3)(extr-1)(flash-4)(extr-1)(gfil-5)(gfil-2)(comp-6)(gfil-2)(gfil-7)(cond-3)(comp-8)(cond-3)(cond-9)(flash-4)(expand-10)(flash-4)(gfil-5)(dist-11)(gfil-5)(v-12)(comp-6)(r-13)(gfil-7)(cond-14)(prod-1)(prod-2)(prod-3)",
-    [
-      [
-        "pred",
-        "(prod-4)"
-      ]
-    ]
-  ],
-  "Q3-1": [
-    "(raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)",
-    "SFILES 2.0 string with partial representation: (raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)",
-    [
-      [
-        "pred",
-        "(abs-18)(blwr-11)(cycl-19)(prod-1)(prod-2)"
-      ]
-    ]
-  ],
-  "Q3-2": [
-    "(raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)",
-    "SFILES 2.0 string with partial representation: (raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)",
-    [
-      [
-        "pred",
-        "(cycl-19)(prod-1)(prod-2)"
-      ]
-    ]
-  ],
-  "Q3-3": [
-    "(raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)",
-    "SFILES 2.0 string with partial representation: (raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)",
-    [
-      [
-        "pred",
-        "(cycl-19)(prod-1)(prod-2)"
-      ]
-    ]
-  ],
-  "Q3-4": [
-    "(raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)",
-    "SFILES 2.0 string with partial representation: (raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)",
-    [
-      [
-        "pred",
-        "(cycl-19)(prod-1)(prod-2)"
-      ]
-    ]
-  ],
-  "Q3-5": [
-    "(raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)(cycl-19)(prod-1)",
-    "SFILES 2.0 string with partial representation: (raw-1)(blwr-1)(raw-2)(lfil-2)(raw-3)(lfil-3)(raw-4)(cycl-4)(blwr-1)(flash-5)(lfil-2)(cond-6)(lfil-2)(v-7)(lfil-3)(cond-8)(lfil-3)(lfil-9)(cycl-4)(cycl-4)(extr-10)(flash-5)(blwr-11)(flash-5)(lfil-12)(cond-6)(cond-6)(mix-13)(v-7)(splt-14)(cond-8)(expand-15)(cond-8)(v-16)(lfil-9)(lfil-9)(extr-17)(extr-10)(extr-10)(abs-18)(blwr-11)(cycl-19)(prod-1)",
+    "(raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)(prod-1)",
+    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)(prod-1)",
     [
       [
         "pred",
@@ -149,69 +59,149 @@
       ]
     ]
   ],
-  "Q4-1": [
-    "(raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)",
-    "SFILES 2.0 string with partial representation: (raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)",
+  "Q2-2": [
+    "(raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)",
+    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)",
     [
       [
         "pred",
-        "(hex-11)(prod-1)(prod-2)(prod-3)(prod-4)"
+        "(prod-1)(prod-2)"
+      ]
+    ]
+  ],
+  "Q2-3": [
+    "(raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)",
+    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)",
+    [
+      [
+        "pred",
+        "(prod-1)(prod-2)"
+      ]
+    ]
+  ],
+  "Q2-4": [
+    "(raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)(prod-1)",
+    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)(prod-1)",
+    [
+      [
+        "pred",
+        "(prod-2)"
+      ]
+    ]
+  ],
+  "Q2-5": [
+    "(raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)",
+    "SFILES 2.0 string with partial representation: (raw-1)(raw-2)(abs-1)(raw-3)(cycl-2)(abs-1)(splt-3)(abs-1)(flash-4)(cycl-2)(cycl-2)(extr-5)(splt-3)(gfil-6)(splt-3)(r-7)(flash-4)(cond-8)(flash-4)(extr-5)(extr-9)(extr-5)(flash-10)",
+    [
+      [
+        "pred",
+        "(prod-1)(prod-2)"
+      ]
+    ]
+  ],
+  "Q3-1": [
+    "(raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)",
+    "SFILES 2.0 string with partial representation: (raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)",
+    [
+      [
+        "pred",
+        "(r-7)(expand-11)(prod-1)(prod-2)"
+      ]
+    ]
+  ],
+  "Q3-2": [
+    "(raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)",
+    "SFILES 2.0 string with partial representation: (raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)",
+    [
+      [
+        "pred",
+        "(r-7)(expand-11)(prod-1)(prod-2)"
+      ]
+    ]
+  ],
+  "Q3-3": [
+    "(raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)(r-7)(expand-11)(prod-1)",
+    "SFILES 2.0 string with partial representation: (raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)(r-7)(expand-11)(prod-1)",
+    [
+      [
+        "pred",
+        "(prod-2)"
+      ]
+    ]
+  ],
+  "Q3-4": [
+    "(raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)(r-7)",
+    "SFILES 2.0 string with partial representation: (raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)(mix-10)(r-7)",
+    [
+      [
+        "pred",
+        "(expand-11)(prod-1)(prod-2)"
+      ]
+    ]
+  ],
+  "Q3-5": [
+    "(raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)",
+    "SFILES 2.0 string with partial representation: (raw-1)(pp-1)(raw-2)(comp-2)(raw-3)(hex-3)(raw-4)(centr-4)(pp-1)(comp-2)(mix-5)(hex-3)(flash-6)(centr-4)(r-7)(centr-4)(flash-8)(mix-5)(comp-9)(flash-6)(flash-6)",
+    [
+      [
+        "pred",
+        "(mix-10)(r-7)(expand-11)(prod-1)(prod-2)"
+      ]
+    ]
+  ],
+  "Q4-1": [
+    "(raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)(blwr-10)(centr-13)(prod-1)(prod-2)",
+    "SFILES 2.0 string with partial representation: (raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)(blwr-10)(centr-13)(prod-1)(prod-2)",
+    [
+      [
+        "pred",
+        "(prod-3)"
       ]
     ]
   ],
   "Q4-2": [
-    "(raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)",
-    "SFILES 2.0 string with partial representation: (raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)",
+    "(raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)",
+    "SFILES 2.0 string with partial representation: (raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)",
     [
       [
         "pred",
-        "(hex-11)(prod-1)(prod-2)(prod-3)(prod-4)"
+        "(blwr-10)(centr-13)(prod-1)(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q4-3": [
-    "(raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)(hex-11)(prod-1)(prod-2)",
-    "SFILES 2.0 string with partial representation: (raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)(hex-11)(prod-1)(prod-2)",
+    "(raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)(blwr-10)(centr-13)",
+    "SFILES 2.0 string with partial representation: (raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)(blwr-10)(centr-13)",
     [
       [
         "pred",
-        "(prod-3)(prod-4)"
+        "(prod-1)(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q4-4": [
-    "(raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)(hex-11)(prod-1)",
-    "SFILES 2.0 string with partial representation: (raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)(hex-11)(prod-1)",
+    "(raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)(blwr-10)",
+    "SFILES 2.0 string with partial representation: (raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)(blwr-10)",
     [
       [
         "pred",
-        "(prod-2)(prod-3)(prod-4)"
+        "(centr-13)(prod-1)(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q4-5": [
-    "(raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)",
-    "SFILES 2.0 string with partial representation: (raw-1)(hex-1)(raw-2)(raw-3)(dist-2)(raw-4)(v-3)(hex-1)(centr-4)(hex-1)(dist-2)(mix-5)(dist-2)(expand-6)(v-3)(centr-4)(mix-7)(centr-4)(comp-8)(mix-5)(centr-9)(expand-6)(r-10)(mix-7)",
+    "(raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)",
+    "SFILES 2.0 string with partial representation: (raw-1)(dist-1)(dist-1)(dist-1)(extr-2)(extr-2)(expand-3)(extr-2)(centr-4)(expand-3)(centr-4)(hex-5)(hex-5)(pp-6)(pp-6)(extr-7)(extr-7)(pp-8)(extr-7)(cond-9)(pp-8)(blwr-10)(cond-9)(cond-11)(cond-9)(v-12)",
     [
       [
         "pred",
-        "(hex-11)(prod-1)(prod-2)(prod-3)(prod-4)"
+        "(blwr-10)(centr-13)(prod-1)(prod-2)(prod-3)"
       ]
     ]
   ],
   "Q5-1": [
-    "(raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)",
-    "SFILES 2.0 string with partial representation: (raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)",
-    [
-      [
-        "pred",
-        "(lfil-5)(cycl-7)(prod-1)"
-      ]
-    ]
-  ],
-  "Q5-2": [
-    "(raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)(lfil-5)(cycl-7)",
-    "SFILES 2.0 string with partial representation: (raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)(lfil-5)(cycl-7)",
+    "(raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)(comp-12)",
+    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)(comp-12)",
     [
       [
         "pred",
@@ -219,33 +209,43 @@
       ]
     ]
   ],
-  "Q5-3": [
-    "(raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)",
-    "SFILES 2.0 string with partial representation: (raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)",
+  "Q5-2": [
+    "(raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)",
+    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)",
     [
       [
         "pred",
-        "(lfil-5)(cycl-7)(prod-1)"
+        "(comp-12)(prod-1)"
+      ]
+    ]
+  ],
+  "Q5-3": [
+    "(raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)",
+    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)",
+    [
+      [
+        "pred",
+        "(gfil-11)(extr-7)(comp-12)(prod-1)"
       ]
     ]
   ],
   "Q5-4": [
-    "(raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)(lfil-5)",
-    "SFILES 2.0 string with partial representation: (raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)(lfil-5)",
+    "(raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)(comp-12)",
+    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)(comp-12)",
     [
       [
         "pred",
-        "(cycl-7)(prod-1)"
+        "(prod-1)"
       ]
     ]
   ],
   "Q5-5": [
-    "(raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)(lfil-5)",
-    "SFILES 2.0 string with partial representation: (raw-1)(comp-1)(raw-2)(comp-1)(extr-2)(extr-2)(extr-2)(dist-3)(dist-3)(v-4)(dist-3)(lfil-5)(v-4)(lfil-5)(abs-6)(lfil-5)",
+    "(raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)",
+    "SFILES 2.0 string with partial representation: (raw-1)(gfil-1)(raw-2)(r-2)(raw-3)(expand-3)(raw-4)(cond-4)(gfil-1)(gfil-1)(mix-5)(r-2)(expand-3)(dist-6)(cond-4)(cond-4)(extr-7)(mix-5)(cycl-8)(dist-6)(pp-9)(dist-6)(flash-10)(extr-7)(gfil-11)(extr-7)",
     [
       [
         "pred",
-        "(cycl-7)(prod-1)"
+        "(comp-12)(prod-1)"
       ]
     ]
   ]

@@ -1,0 +1,76 @@
+ "Q12813115": [
+    "urban area in Sweden",
+    "Def: population >= 200, < 200 m between buildings, etc",
+    [
+      [
+        "instance of",
+        "urban unit definition"
+      ],
+      [
+        "country",
+        "Sweden"
+      ],
+      [
+        "subclass of",
+        "urban area in Nordic countries"
+      ],
+      [
+        "subclass of",
+        "urban area"
+      ],
+      [
+        "topic's main category",
+        "Category:Urban areas in Sweden"
+      ],
+      [
+        "Commons category",
+        "Urban areas in Sweden"
+      ],
+      [
+        "has list",
+        "list of urban areas in Sweden"
+      ],
+      [
+        "different from",
+        "urban unit"
+      ]
+    ]
+  ],
+
+"Q1400": [
+    "Pennsylvania",
+    "State in the northeastern United States",
+    [
+      [
+        "Dewey Decimal Classification",
+        "2--748"
+      ],
+      [
+        "country",
+        "United States of America"
+      ],
+      [
+        "shares border with",
+        "New York"
+      ]
+    ]
+  ],
+ "Q30": [
+    "United States of America",
+    "country in North America",
+    [
+      [
+        "participant of",
+        "atomic bombings of Hiroshima and Nagasaki"
+      ],
+      [
+        "participant of",
+        "Battle of Ap Bac"
+      ],
+      [
+        "participant of",
+        "Battle of the Lys"
+      ]
+    ]
+  ]
+

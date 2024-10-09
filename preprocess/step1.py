@@ -49,23 +49,11 @@ with open('en.json', 'r') as f:
     for i, line in enumerate(f):
         data = json.loads(line)
         entry = {"id": data['id'], "url": data['url'], 'title': data['title']}
-        outputs = []
-        if len(data['text']) > 50:
-            try:
-                sents = split_paragraphs(data['text'])
-                for sent in sents:
-                    if len(sent) < 400:
-                        output, ratio, count = split_sent(sent)
-                        if count > 1 and ratio >= 0.10 and len(output) >= 8 and output[0][0][0].isupper():
-                            text = [_[0] for _ in output]
-                            hyperlink = [_[1] for _ in output]
-                            outputs.append((text, hyperlink))
-            except Exception:
-                pass
-            
-        if len(outputs) > 0:
-            entry['text'] = outputs
-            fw.write(json.dumps(entry) + '\n')
-            
+        # SFILES 2.0 문자열을 그대로 사용
+        entry['text'] = data['text']
+        entry['sfiles_string'] = data['title']
+        
+        fw.write(json.dumps(entry) + '\n')
+        
         sys.stdout.write('finished {}/{} \r'.format(i, 5989879))
 fw.close()

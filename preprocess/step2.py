@@ -48,7 +48,7 @@ with open(input_file, 'r') as f:
             'title': data['title'],
             'title_kb_id': sfiles_string,  # SFILES 문자열을 title_kb_id로 사용
             'sfiles_string': sfiles_string,
-            'text': text,
+            'text': sfiles_string,      # 임의로 SFILES 문자열을 text로 사용
             'kblinks': [sfiles_string],  # SFILES 문자열을 kblinks로 사용
             'hyperlinks': [sfiles_string]  # SFILES 문자열을 hyperlinks로 사용
         }

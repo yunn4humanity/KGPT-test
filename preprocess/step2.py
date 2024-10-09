@@ -3,10 +3,10 @@ import sys
 import time
 import os
 
-assert len(sys.argv) == 3
+# assert len(sys.argv) == 3
 
-input_file = sys.argv[1]
-resume = sys.argv[2]
+input_file = 'out-more.json' # sys.argv[1]
+resume = 'false' # sys.argv[2]
 assert resume in ["true", "false"]
 if resume == 'false':
     mode = 'w+'

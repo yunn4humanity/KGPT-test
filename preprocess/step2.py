@@ -38,11 +38,17 @@ with open(input_file, 'r') as f:
         if not sfiles_string:
             continue
         
+        text = data.get('text', '')
+        if not text:
+            continue
+        
         entry = {
             'id': idx,
             'url': data['url'],
             'title': data['title'],
-            'sfiles_string': sfiles_string
+            'sfiles_string': sfiles_string,
+            'text': text,
+            'kblinks': [sfiles_string]  # SFILES 문자열을 kblinks로 사용
         }
         
         fw.write(json.dumps(entry) + '\n')

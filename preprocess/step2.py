@@ -46,9 +46,11 @@ with open(input_file, 'r') as f:
             'id': idx,
             'url': data['url'],
             'title': data['title'],
+            'title_kb_id': sfiles_string,  # SFILES 문자열을 title_kb_id로 사용
             'sfiles_string': sfiles_string,
             'text': text,
-            'kblinks': [sfiles_string]  # SFILES 문자열을 kblinks로 사용
+            'kblinks': [sfiles_string],  # SFILES 문자열을 kblinks로 사용
+            'hyperlinks': [sfiles_string]  # SFILES 문자열을 hyperlinks로 사용
         }
         
         fw.write(json.dumps(entry) + '\n')
